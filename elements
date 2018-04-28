@@ -5,4 +5,4 @@ new P(text."This is a paragraph");
 // This is how you create a button:
 new Button(text."This is a button");
 //This is the basic syntax:
-new Element(attribute.value);
+new Element(attribute.value); 
