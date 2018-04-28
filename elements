@@ -1,0 +1,8 @@
+//This is how you create a heading:
+new H1(text."This is a heading");
+// This is how you create a paragaraph:
+new P(text."This is a paragraph");
+// This is how you create a button:
+new Button(text."This is a button");
+//This is the basic syntax:
+new Element(attribute.value);
