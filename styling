@@ -1,0 +1,12 @@
+H1 {
+color: red;
+}
+Body {
+background-color: lightgreen;
+}
+.class {
+display:fixed;
+}
+#id {
+font-size:24px;
+}
