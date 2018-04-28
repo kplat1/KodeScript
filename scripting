@@ -1,0 +1,7 @@
+fun myFunction() {
+var x = "Hello World";
+if (x == "Hello world") {
+// do some code
+}
+}
+myFunction();
